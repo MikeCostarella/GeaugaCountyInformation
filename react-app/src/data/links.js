@@ -41,4 +41,5 @@ export const LINKS = [
   // ---------- News & Media ----------
   { name: "Geauga County Maple Leaf", category: "News & Media", subcategory: "Newspaper", url: "https://www.geaugamapleleaf.com/", description: "Award-winning community newspaper covering Geauga County" },
   { name: "Chagrin Valley Times", category: "News & Media", subcategory: "Newspaper", url: "https://www.chagrinvalleytoday.com/", description: "Regional newspaper group including the Geauga Times Courier" },
+  { name: "The Review Newspapers", category: "News & Media", subcategory: "Newspaper", url: "https://www.thereviewnewspapers.com/", description: "Regional weekly serving parts of Portage, Columbiana, and Geauga counties." },
 ];
