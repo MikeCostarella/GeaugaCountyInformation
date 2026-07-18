@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "ISSG";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Geauga County Government", category: "Government", subcategory: "County", url: "https://geauga.oh.gov/", description: "Official Geauga County government website" },
